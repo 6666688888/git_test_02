@@ -9,25 +9,7 @@ public class FirstGit {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
-        System.out.println("hello world");
+
         test();
         test2();
     }
